@@ -1,0 +1,74 @@
+{
+    "1": {
+        "Name": "trung",
+        "DoB": "13",
+        "Course": {
+            "5": {
+                "name": "course1",
+                "mark": "10"
+            },
+            "2": {
+                "name": "course2",
+                "mark": 0
+            },
+            "3": {
+                "name": "course3",
+                "mark": 0
+            }
+        }
+    },
+    "2": {
+        "Name": "trung1",
+        "DoB": "14",
+        "Course": {
+            "5": {
+                "name": "course1",
+                "mark": "10"
+            },
+            "2": {
+                "name": "course2",
+                "mark": 0
+            },
+            "3": {
+                "name": "course3",
+                "mark": 0
+            }
+        }
+    },
+    "3": {
+        "Name": "trung2",
+        "DoB": "12",
+        "Course": {
+            "5": {
+                "name": "course1",
+                "mark": "10"
+            },
+            "2": {
+                "name": "course2",
+                "mark": 0
+            },
+            "3": {
+                "name": "course3",
+                "mark": 0
+            }
+        }
+    },
+    "trrs": {
+        "Name": "trung3",
+        "DoB": "24",
+        "Course": {
+            "5": {
+                "name": "course1",
+                "mark": "10"
+            },
+            "2": {
+                "name": "course2",
+                "mark": 0
+            },
+            "3": {
+                "name": "course3",
+                "mark": 0
+            }
+        }
+    }
+}
