@@ -1,0 +1,46 @@
+{
+    "1": {
+        "name": "Trung",
+        "dob": "13",
+        "course_enrolled": {
+            "1": "Sofware Engineering",
+            "2": "Data Structure",
+            "4": "OOP"
+        }
+    },
+    "2": {
+        "name": "Tuan",
+        "dob": "19",
+        "course_enrolled": {
+            "1": "Sofware Engineering",
+            "2": "Data Structure",
+            "4": "OOP"
+        }
+    },
+    "3": {
+        "name": "Thanh",
+        "dob": "16",
+        "course_enrolled": {
+            "1": "Sofware Engineering",
+            "2": "Data Structure",
+            "4": "OOP"
+        }
+    },
+    "4": {
+        "name": "Tu",
+        "dob": "15",
+        "course_enrolled": {
+            "1": "Sofware Engineering",
+            "2": "Data Structure",
+            "4": "OOP"
+        }
+    },
+    "5": {
+        "name": "Tom",
+        "dob": "11",
+        "course_enrolled": {
+            "1": "Sofware Engineering",
+            "2": "Data Structure"
+        }
+    }
+}

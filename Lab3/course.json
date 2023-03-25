@@ -1,0 +1,44 @@
+{
+    "1": {
+        "name": "Sofware Engineering",
+        "credit": 3,
+        "student_list": {
+            "1": "Trung",
+            "2": "Tuan",
+            "3": "Thanh",
+            "4": "Tu",
+            "5": "Tom"
+        }
+    },
+    "2": {
+        "name": "Data Structure",
+        "credit": 4,
+        "student_list": {
+            "1": "Trung",
+            "2": "Tuan",
+            "3": "Thanh",
+            "4": "Tu",
+            "5": "Tom"
+        }
+    },
+    "3": {
+        "name": "Dataabase",
+        "credit": 3,
+        "student_list": {}
+    },
+    "4": {
+        "name": "OOP",
+        "credit": 4,
+        "student_list": {
+            "1": "Trung",
+            "2": "Tuan",
+            "3": "Thanh",
+            "4": "Tu"
+        }
+    },
+    "5": {
+        "name": "ADS",
+        "credit": 4,
+        "student_list": {}
+    }
+}
